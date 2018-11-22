@@ -1,0 +1,12 @@
+
+P  -> [ Read ]  [ Align ] [ Read ]  [ Align ] [ Read ] [ Align ] [ Read ] [ Align ] [ Read ] [ Align ]
+
+
+
+P1  -> [ Read ] VVV [ Read ] VVV [ Read ] VVV [ Read ]  VVV [ Read ]
+
+{ r1 r2 r3 }
+			  
+ 
+
+P2  ->           VVV [ Align ] [ Align ] [ Align ] [ Align ] [ Align ]
